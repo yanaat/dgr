@@ -1,0 +1,26 @@
+ body {
+    font-family: WESTMINSTER;
+    background-color: BlanchedAlmond;
+}
+h1 {
+    text-align: center;
+    font-family: WESTMINSTER;
+    letter-spacing: 8px;
+    color: rgb(124, 73, 37);
+}
+.text-big {
+    text-align: center;
+    font-family: WESTMINSTER;
+    letter-spacing: 8px;
+    color: rgb(124, 73, 37);
+}
+.link-header {
+    text-decoration: none;
+    font-size: 20px;
+    border: 3px solid rgb(155, 124, 101);
+    background-color: rgb(155, 124, 101);
+    padding: 10px;
+    color: rgb(213, 192, 177);
+    border-radius: 10px;
+    margin-top: 25px;
+}
