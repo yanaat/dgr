@@ -1,0 +1,33 @@
+body {
+    font-family: WESTMINSTER;
+    background-color: BlanchedAlmond;
+}
+h1 {
+    text-align: center;
+    color: rgb(124, 73, 37);
+}
+li {
+  margin-bottom: 10px ;  
+  font-size: 20px;
+  color: rgb(124, 73, 37);
+}
+.gallery {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+}
+img {
+    width: 400px;
+
+}
+.link-header {
+    text-decoration: none;
+    font-size: 20px;
+    border: 3px solid rgb(155, 124, 101);
+    background-color: rgb(155, 124, 101);
+    padding: 10px;
+    color: rgb(213, 192, 177);
+    border-radius: 10px;
+    margin: 25px;
+}
